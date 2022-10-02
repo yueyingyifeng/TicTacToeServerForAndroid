@@ -127,6 +127,7 @@ void Server::gamePlay(Room* room,bool who) {
 		}
 	}
 	
+	removeRoomByHostSock(host);
 	cout << __TIMESTAMP__ << " 游戏开始,host: " << room->getClientA()->getName() << " guest: " << room->getClientB()->getName() << endl; 
 	//通知玩家们游戏开始
 	if(who){
