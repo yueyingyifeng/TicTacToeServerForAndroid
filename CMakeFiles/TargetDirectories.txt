@@ -1,0 +1,3 @@
+/home/yueyingyifeng/projects/Tictactoe_server/CMakeFiles/rebuild_cache.dir
+/home/yueyingyifeng/projects/Tictactoe_server/CMakeFiles/edit_cache.dir
+/home/yueyingyifeng/projects/Tictactoe_server/CMakeFiles/tTT_server.dir

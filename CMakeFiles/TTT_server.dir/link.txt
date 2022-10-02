@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TTT_server.dir/main.cpp.o CMakeFiles/TTT_server.dir/Server.cpp.o CMakeFiles/TTT_server.dir/Room.cpp.o CMakeFiles/TTT_server.dir/Command.cpp.o CMakeFiles/TTT_server.dir/ClientInfo.cpp.o -o TTT_server  -lpthread 
