@@ -1,2 +1,2 @@
 # TicTacToeServerForAndroid
-为Android的井字棋小游戏写的服务器
+为Android的井字棋小游戏写的服务器,好吧，bug挺多的QAQ
